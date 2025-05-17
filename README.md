@@ -20,3 +20,11 @@ This project uses a list of 70+ Indian traffic sign classes (from Stop and Speed
 
 ### make sure to replace 'model_1' with your own model or just do it with this model itself :)
 
+PRESS 'Q' to quit the webcam feed.
+
+# Notes
+The model must be trained to recognize the 70+ class names provided in the class_names list.
+
+Ensure your webcam is connected and accessible.
+
+For best results, use a well-lit environment.
